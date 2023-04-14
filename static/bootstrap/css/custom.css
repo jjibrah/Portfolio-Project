@@ -1,0 +1,172 @@
+.body{
+    width: 100%;
+    border: unset;
+    margin: 0px;
+}
+.portfolio{
+    background-image: url("../../images/bg.jpg");
+    width: 100%;
+    height: 100vh;
+
+}
+.navigation{
+    width: 100%;
+    height: 15vh;
+    display :flex;
+}
+.navdiv{
+    width:30%;
+    height: 15vh;
+}
+.navdivimg{
+    margin-left: 40px;
+    margin-top: 15px;
+    width: 100px;
+    height: 10vh;
+}
+.navbtns{
+    width: 40%;
+}
+.navbtn{
+    background-color: transparent;
+    border:unset;
+    border-radius: 7px;
+    width: 80px;
+    height: 30px;
+    align-content: center;
+    justify-content: center;
+    margin-top: 25px;
+    color: #0d6efd;
+    margin-right: 10px;
+    margin-left: 6px;
+}
+.navbtn:hover{
+    background-color:#0dcaf0;
+    border: #022759 solid 1px;
+    color: #0b1d34;
+}
+.hireme{
+    width: 20%;
+
+}
+.hire{
+    margin-left: 70px;
+    background-color: #042f6b;
+    border: solid 1px #d97d13;
+    border-radius: 7px;
+    width: 80px;
+    height: 30px;
+    align-content: center;
+    justify-content: center;
+    margin-top: 25px;
+    color: #fffcfc;
+    margin-right: 10px;
+
+}
+.hire:hover{
+    background-color: #d96413;
+    border: hsl(215, 76%, 50%) 2px solid;
+    color: black;
+}
+
+.content-wrapper{
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    margin-top: 70px;
+}
+.content{
+    width:700px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.mtitle{
+    color: #021f48;
+    font-size: 40px;
+}
+.mpost{
+    color: #0dcaf0;
+    padding-left: 30px;
+    font-size: 30px;
+}
+.mpost::first-letter{
+    border-left: solid 2px #123;
+    border-top: solid 2px #123;
+    border-bottom: solid 2px #123;
+    color: #d97d13;
+}
+.mdesc{
+
+    padding-left: 25px;
+    font-size: 25px;
+    color: #064843;
+}
+.mdesc span{
+    color: #d96413;
+}
+.pdfbtn{
+    margin-left: 70px;
+    background-color: #042f6b;
+    border: solid 1px #d97d13;
+    border-radius: 7px;
+    width: 150px;
+    height: 35px;
+    align-content: center;
+    justify-content: center;
+    margin-top: 25px;
+    color: #fffcfc;
+    margin-right: 10px;
+}
+.pdfbtn:hover{
+    background-color: #d96413;
+    border: hsl(214, 96%, 18%) 2px solid;
+    color: black;
+}
+
+.let-talk{
+    margin-left: 40px;
+    background-color: #d97d13;
+    border: solid 1px #021f48;
+    border-radius: 7px;
+    width: 150px;
+    height: 35px;
+    align-content: center;
+    justify-content: center;
+    margin-top: 25px;
+    color: #0b1d34;
+    margin-right: 10px;
+}
+.let-talk:hover{
+    background-color: #021f48;
+    border: hsl(214, 96%, 18%) 2px solid;
+    color: #dce0e3;
+}
+.me{
+    width: 40%;
+}
+.myimg{
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
